@@ -7,7 +7,7 @@ It analyzes sales performance across regions, categories, time, and customer seg
 ---
 
 ## 🖼️ Dashboard Preview
-![Superstore Sales Dashboard](Screenshot(446).png)
+![Superstore Sales Dashboard](Screenshot (446).png)
 
 *(The above image is a preview of the interactive Tableau dashboard. You can explore the full version on Tableau Public or by downloading the .twbx file.)*
 
